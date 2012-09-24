@@ -1,0 +1,9 @@
+Script is used to collect Memory and CPU usage of the Host Systems in VCenter. It creates log file containing Memory and CPU usage ofeach of the Host Systems after every specific interval of time.
+
+Requirement:
+------------
+1.Python 2.7
+2.pip install -U psphere
+
+Check python usage_stats.py --help for more information
+
